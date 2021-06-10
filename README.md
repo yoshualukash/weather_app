@@ -1,4 +1,4 @@
-# Weather App
+# Weather App (Tugas 2 Mobile Computing)
 - Yoshua Lukas
 - 1313617021
 - Ilmu Komputer 2017
